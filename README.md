@@ -1,2 +1,2 @@
 # learn-git
-Testing and learning how git and GitHub work.
+This repository is just for me to test and learn how git and GitHub work.
